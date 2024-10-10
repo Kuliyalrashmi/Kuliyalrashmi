@@ -108,6 +108,9 @@
 </td></tr> </table>
 
 
+### 🖥 Leetcode Profile
+<img width="48%" src="https://leetcard.jacoblin.cool/rashmikuliyal543?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
+
 
 <details>
 <summary>📈 Stats</summary>
