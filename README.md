@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/Kuliyalrashmi">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=700&height=80&lines=Rashmi+Kuliyal;Tech+Enthusiast+%7C+Grad+Student+%7C+Computer+Engineering+Understudies;Maschine+Learning+%7C+Data+Science+%7C+Web+Devlopment" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=700&height=80&lines=Rashmi+Kuliyal;Tech+Enthusiast+%7C+Grad+Student+%7C+Computer+Engineering+Understudies;Machine+Learning+%7C+Data+Science+%7C+Web+Devlopment" alt="Typing SVG" />
 </a>
 <br/>
 
