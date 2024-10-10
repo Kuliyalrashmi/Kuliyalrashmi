@@ -65,7 +65,6 @@
   <img width="12" />
   <a href="https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources" target="_blank" rel="noreferrer"><img src="https://banner2.cleanpng.com/20180711/iqy/aawpwnuou.webp" height="35" width="40" alt="github logo"  /> </a> 
   <img width="12" /> 
-  <a href="https://codepen.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" height="35" width="45" alt="codepen logo"  /> </a> 
 </div>
 
 ###
