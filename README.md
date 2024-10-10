@@ -127,4 +127,6 @@ Currently Coding & Listening to:
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31lx4jv3jp2wfurwv62ynv5f7wyq)
 
 
+[![](https://visitcount.itsvg.in/api?id=Kuliyalrashmi&icon=5&color=11)](https://visitcount.itsvg.in)
+
 </details>
