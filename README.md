@@ -39,6 +39,38 @@
 
 * 💻 Currently working on my problem solving skills with CPP.
 
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <a href="https://devdocs.io/javascript/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />  </a> 
+  <img width="12" />
+  <img width="12" />
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />  </a> 
+  <img width="12" />
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /> </a> 
+  <img width="12" />
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />  </a> 
+  <img width="12" />
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /> </a> 
+  <img width="12" />
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  /> </a> 
+  <img width="12" />
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  /> </a> 
+  <img width="12" />
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  /> </a> 
+  <img width="12" />
+  <a href="https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" height="35" width="40" alt="github logo"  /> </a> 
+  <img width="12" /> 
+  <a href="https://codepen.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" height="35" width="45" alt="codepen logo"  /> </a> 
+</div>
+
+###
+
+
 ### 🖥️ Daily Practise and Projects
 <table>
 <tr><th>Data Structure And Algorithm</th><th>Machine Learning</th></tr>
