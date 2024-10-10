@@ -41,7 +41,7 @@
 
 ### 🖥️ Daily Practise and Projects
 <table>
-<tr><th>Data Structure And Algorithm</th><th>Data Science</th></tr>
+<tr><th>Data Structure And Algorithm</th><th>Machine Learning</th></tr>
 <tr><td>
 
 |Title | Stars | Language Used |
@@ -53,11 +53,10 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [Poland Bankrupty](https://github.com/teche74/Poland_Bankrupty) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/Poland_Bankrupty?style=flat-circle&labelColor=orange"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
-| [USA Customer Segmentation](https://github.com/teche74/Customer_Segmentation_USA) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/Quora_Dataset_EDA?style=flat-circle&labelColor=orange"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
-| [Quora QuestionPair EDA](https://github.com/teche74/Quora_Dataset_EDA) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/Quora_Dataset_EDA?style=flat-circle&labelColor=orange"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
-| [Youtube Trend Analysis](https://github.com/teche74/YT_TrendingVideos_Analysis_Using_R) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/YT_TrendingVideos_Analysis_Using_R?style=flat-circle&labelColor=orange"/> | ![R](https://img.shields.io/badge/R-package%2Fv%2F%3Auser%2F%3Arepo?logo=R&logoColor=rgba&labelColor=blue&color=orange)|
-| [Wine Quality Analysis](https://github.com/teche74/WhiteWine_Quality_Prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/WhiteWine_Quality_Prediction?style=flat-circle&labelColor=orange"/> | ![R](https://img.shields.io/badge/R-package%2Fv%2F%3Auser%2F%3Arepo?logo=R&logoColor=rgba&labelColor=blue&color=orange)|
+| [Mail Spam Classifier](https://github.com/Kuliyalrashmi/Mail-Spam-Classification) | <img alt="Stars" src="https://img.shields.io/github/stars/Kuliyalrashmi/Mail-Spam-Classification?style=flat-circle&labelColor=orange"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
+| [Driver Safety](https://github.com/Kuliyalrashmi/DriverSafety) | <img alt="Stars" src="https://img.shields.io/github/stars/Kuliyalrashmi/DriverSafety?style=flat-circle&labelColor=orange"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
+| [SkinCancerClassification](https://github.com/Kuliyalrashmi/SkinCancerClassifier) | <img alt="Stars" src="https://img.shields.io/github/stars/Kuliyalrashmi/SkinCancerClassifier?style=flat-circle&labelColor=orange"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
+| [Stock Price PRediction](https://github.com/Kuliyalrashmi/Stock-Price-Prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/Kuliyalrashmi/Stock-Price-Prediction?style=flat-circle&labelColor=orange"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
 
 </td></tr> </table>
 
