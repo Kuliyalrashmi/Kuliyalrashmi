@@ -10,7 +10,7 @@
 <a href="">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
-<a href="www.linkedin.com/in/ujjwal-bisht-3a09b0240">
+<a href="http://www.linkedin.com/in/rashmi-kuliyal-01189622b">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:">
@@ -26,7 +26,7 @@
 </a>
 -->
 
-<img src="https://imgs.search.brave.com/yt-lMCWw06W1S71eGi_eVH64N_SjiNe3yT5kKzBqX44/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/MnV5RU5SbWlVdDBB/QUFBTS9jb2Rpbmcu/Z2lm.gif" alt="Coding"  height= 400 width=500>
+<img src="https://cdn.dribbble.com/users/330915/screenshots/2082808/2_reports_dribbble.gif" alt="Coding"  height= 400 width=500>
 
 
 </p>
