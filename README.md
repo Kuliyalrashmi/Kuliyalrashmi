@@ -37,19 +37,17 @@
 
 * 💡 Open to collaborating on projects and innovative ideas.
 
-* 💻 Exploring NLP topics - **Information Retrival**, **Topic Modelling** and **POS Tagging**.
+* 💻 Currently working on my problem solving skills with CPP.
 
-### 🖥️ Projects
+### 🖥️ Daily Practise and Projects
 <table>
-<tr><th>Machine Learning </th><th>Data Science</th></tr>
+<tr><th>Data Structure And Algorithm</th><th>Data Science</th></tr>
 <tr><td>
 
-|Title | Stars | Technologies |
+|Title | Stars | Language Used |
 |--|--|--|
-| [Housing Buenos Aries](https://github.com/teche74/WorldQuant_Housing_in_Buenos_Aries) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/WorldQuant_Housing_in_Buenos_Aries?style=flat-circle&labelColor=red"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
-| [Earthquake Prediction Nepal](https://github.com/teche74/Earthquake_Prediction_Nepal) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/Earthquake_Prediction_Nepal?style=flat-circle&labelColor=red"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
-| [Air_Quality_Index_Prediction](https://github.com/teche74/Air_Quality_Index_Prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/Air_Quality_Index_Prediction?style=flat-circle&labelColor=red"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
-| [Stock Prediction](https://github.com/teche74/ARIMA-Modeling-for-Stock-Prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/ARIMA-Modeling-for-Stock-Prediction?style=flat-circle&labelColor=red"/> | ![R](https://img.shields.io/badge/R-package%2Fv%2F%3Auser%2F%3Arepo?logo=R&logoColor=rgba&labelColor=blue&color=orange)|
+| [Daily Practise](https://github.com/Kuliyalrashmi/DSA_Questions) | <img alt="Stars" src="https://img.shields.io/github/stars/Kuliyalrashmi/DSA_Questions?style=flat-circle&labelColor=red"/> | ![CPP](https://img.shields.io/badge/-C++-blue?logo=cplusplus&logoColor=green&labelColor=blue&color=orange)|
+| [STL](https://github.com/Kuliyalrashmi/CPP) | <img alt="Stars" src="https://img.shields.io/github/stars/Kuliyalrashmi/CPP?style=flat-circle&labelColor=red"/> | ![CPP](https://img.shields.io/badge/-C++-blue?logo=cplusplus&logoColor=green&labelColor=blue&color=orange)|
 
 </td><td>
 
@@ -78,26 +76,6 @@
  
 </td></tr> </table>
 
-### 📌 Roadmaps and Resources
-
-<table>
-<tr><th>Tech Maps </th><th>Resources</th></tr>
-<tr><td>
-
-|Language |  stars | Stack |  
-|--|--|--|
-| [PYTHON](https://github.com/teche74/) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/?style=flat-circle&labelColor=red"/> | ![Python](https://img.shields.io/badge/python-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logo=python&logoColor=green&labelColor=black&color=red)|
-| [R LANGUAGE](https://github.com/teche74/R_language_Guide) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/?style=flat-circle&labelColor=red"/> | ![R](https://img.shields.io/badge/R-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logo=R&logoColor=blue&label=R%20Studio&labelColor=black&color=red)|
-| [SQL](https://github.com/teche74/SQL_Playground) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/SQL_Playground?style=flat-circle&labelColor=red"/> | ![SQL](https://img.shields.io/badge/sql-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logo=Oracle&logoColor=blue&labelColor=black&color=red)|
-
-</td><td>
-
-|Books  | Language|
-|--|--|
-| [Data Structure and Algorithm in C](https://github.com/teche74/My_Tech_Library/blob/main/Book_Data_Structure_And_Algorithms_In_C.pdf) | ![C](https://img.shields.io/badge/c-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logoColor=White&labelColor=black&color=black)|
-| [Practical C Programming](https://github.com/teche74/My_Tech_Library/blob/main/O%20Reilly%20-%20Practical%20C%20Programming%2C%203rd%20Edition.pdf) | ![C](https://img.shields.io/badge/c-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logoColor=White&labelColor=black&color=black)|
-
-</td></tr> </table>
 
 
 <details>
