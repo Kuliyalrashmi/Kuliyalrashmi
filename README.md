@@ -33,7 +33,7 @@
 
 * 📖 Pursuing Graduation in Computer Science & Engineering @ [Graphic Era Hill University](https://www.gehu.ac.in/). 
 
-* 🎓 Getting Experience in field of **Data Science**, **Maschine Learning**, and **Databases**.
+* 🎓 Getting Experience in field of **Data Science**, **Machine Learning**, and **Databases**.
 
 * 💡 Open to collaborating on projects and innovative ideas.
 
