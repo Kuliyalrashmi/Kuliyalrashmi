@@ -65,12 +65,35 @@
   <img width="12" />
   <a href="https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources" target="_blank" rel="noreferrer"><img src="https://banner2.cleanpng.com/20180711/iqy/aawpwnuou.webp" height="35" width="40" alt="github logo"  /> </a> 
   <img width="12" /> 
+    <img width="12" />
+  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" height="30" alt="cassandra logo" /> 
+  </a> 
+  <img width="12" />
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apache kafka logo" /> 
+  </a>
+  <img width="12" />
+  <a href="https://sqlite.org/index.html" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" /> 
+  </a>
 </div>
 
 ###
 
 
 ### 🖥️ Daily Practise and Projects
+
+
+### 🔗 Kafka Learning
+
+<div align="left">
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="50" alt="Apache Kafka Logo" />
+  </a>
+  <table> <tr> <th>Topic</th> <th>Description</th> <th>GitHub Module</th> <th>Link</th> </tr> <tr> <td>Kafka Basics</td> <td>Introduction to Kafka, producer-consumer architecture, and message brokers.</td> <td>Kafka Introduction</td> <td> <a href="https://github.com/Kuliyalrashmi/KAFKA-COMMANDS-AND-USAGE">View Module</a> </td> </tr> <tr> <td>Kafka Producers</td> <td>Implementation of Kafka producers to send messages to topics.</td> <td>Kafka Producer Module</td> <td> <a href="https://github.com/Kuliyalrashmi/KAFKA-COMMANDS-AND-USAGE/tree/main/KafkaConsumer">View Module</a> </td> </tr> <tr> <td>Kafka Consumers</td> <td>Building Kafka consumers to retrieve and process messages.</td> <td>Kafka Consumer Module</td> <td> <a href="https://github.com/Kuliyalrashmi/KAFKA-COMMANDS-AND-USAGE/tree/main/kafka_topics_command">View Module</a> </td> </tr> <tr> <td>Avro Serialization</td> <td>Using Avro for schema-based serialization in Kafka.</td> <td>Avro Serialization with Kafka</td> <td> <a href="https://github.com/Kuliyalrashmi/KAFKA-COMMANDS-AND-USAGE/tree/main/kafka_topics_command/Serialization_Using_Kafka_Avro">View Module</a> </td> </tr> <tr> <td>Kafka Streams</td> <td>Building real-time stream processing applications using Kafka Streams API.</td> <td>Kafka Streams Module</td> <td> <a href="https://github.com/Kuliyalrashmi/KafkaStreams">View Module</a> </td> </tr> <tr> <td>Kafka Connect</td> <td>Integrating external systems with Kafka using Kafka Connect.</td> <td>Kafka Connect Module</td> <td> <a href="https://github.com/Kuliyalrashmi/KafkaConnect">View Module</a> </td> </tr> <tr> <td>Kafka Cluster Setup</td> <td>Configuring and deploying a Kafka cluster on a local or cloud environment.</td> <td>Kafka Cluster Configuration</td> <td> <a href="https://github.com/Kuliyalrashmi/KafkaCluster">View Module</a> </td> </tr> </table>
+</div>
+
 <table>
 <tr><th>Data Structure And Algorithm</th><th>Machine Learning</th></tr>
 <tr><td>
